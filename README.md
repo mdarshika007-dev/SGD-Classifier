@@ -190,6 +190,7 @@ plt.show()
 ~~~
 
 ## Output:
+<img width="1475" height="792" alt="image" src="https://github.com/user-attachments/assets/6afac1f4-90b5-4d15-9ed6-be0abcc781c2" />
 
 
 
