@@ -195,7 +195,11 @@ plt.show()
 <img width="1373" height="605" alt="image" src="https://github.com/user-attachments/assets/f89be11c-39e1-402e-99e7-4c36065712b9" />
 
 <img width="1425" height="532" alt="image" src="https://github.com/user-attachments/assets/9d02a064-55d3-4f92-9d17-8035417b9984" />
+
 <img width="1427" height="587" alt="image" src="https://github.com/user-attachments/assets/8c46510e-cdc3-4635-973e-199f9a65d909" />
+
+<img width="1412" height="767" alt="image" src="https://github.com/user-attachments/assets/70915f90-ed68-40c5-bcb0-7479e8f55915" />
+
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
